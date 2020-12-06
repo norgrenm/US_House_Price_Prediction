@@ -1,4 +1,4 @@
-Group 3: Elio Aybar, Cristal Garcia, Sunny Li, Matt Norgren, Jingyi Tang
+Group 3: Elio Aybar, Cristal Garcia, Sunny Li, Matt Norgren
 Data Mining Project Proposal: Housing Price Predictions
 
 Business Problems (Considering 2 Proposals to Explore):
@@ -32,11 +32,17 @@ Economic Data - fed funds rate, inflation, median income (https://fred.stlouisfe
 
 
 
-1
+
+
+1
 
 
 
-Aybar, Garcia, Li, Norgren, Tang
+
+Aybar, Garcia, Li, Norgren
+
+
+
 
 
 
