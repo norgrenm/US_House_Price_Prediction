@@ -1,5 +1,5 @@
 # REAL ESTATE PRICING PREDICTIONS
-Elio Aybar, Cristal Garcia, Sunny Li, and Matt Norgren)  
+Elio Aybar, Cristal Garcia, Sunny Li, and Matt Norgren
 
 ## TABLE OF CONTENT:
 - [PROBLEM STATEMENT](#problem-statement)
@@ -45,7 +45,7 @@ DIFFERENT TYPES OF NEIGHBORHOODS MAY ATTRACT SPECIFIC BUSINESSES.
 
 ## FEATURES & TARGET VARIABLE
 
-|  |  |
+| DATA SOURCE | KEY FIELD  |
 |--|--|
 |Zip code (Key)||
 |Zillow|• NumberOfBedrooms <br>• Dwelling Type|
@@ -66,7 +66,7 @@ DIFFERENT TYPES OF NEIGHBORHOODS MAY ATTRACT SPECIFIC BUSINESSES.
 ## LIMITATIONS AND DELIMITATIONS OF DATA PART2
 
 
-|  | |
+| CATEGORY | DETAIL |
 |-|-|
 |Granularity ||
 |Time | (1996 – 2017)|
@@ -174,7 +174,7 @@ DIFFERENT TYPES OF NEIGHBORHOODS MAY ATTRACT SPECIFIC BUSINESSES.
 
 ## XGBOOST
 #### eXtreme Gradient Boosted trees
-#### Most powerful machine learning algorithm up until today
+
 #### Features:
 - Regularized boosting ( prevent overfitting)
 - Can handle missing values
